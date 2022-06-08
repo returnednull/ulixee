@@ -33,4 +33,3 @@ const rootDir = Path.resolve(__dirname, '../../');
   ensureIndexFile(mdDocsRootPath, 'server');
 }
 
-}
